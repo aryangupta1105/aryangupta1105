@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me ...Linked In - https://www.linkedin.com/in/aryan-gupta-77b534237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him I am a boy.
 - ⚡ Fun fact: I prefer hardwork over talent
 <!---
 aryangupta1105/aryangupta1105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
