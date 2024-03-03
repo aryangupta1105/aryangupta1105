@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @aryangupta1105
+- <hr>
 - 👀 I’m interested in Android development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on new projects
