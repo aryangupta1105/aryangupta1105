@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Java Script](for Frontend Development)
+- 🔭 I’m currently working on [React Js](for Frontend Development)
 
 - 🌱 I’m currently learning **Web Developement**
 
@@ -15,7 +15,7 @@
 
 - I am looking to [learn](Android Developement)
 
-- 💬 Ask me about **html , css and js.**
+- 💬 Ask me about **html , css and js and react js.**
 
 - 📫 How to reach me **techxhustle@gmail.com**
 
