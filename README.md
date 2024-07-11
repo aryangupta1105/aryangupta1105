@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aryan Gupta</h1>
-<img align="center" src="https://media.licdn.com/dms/image/D4D35AQE3VyAxsXDhEA/profile-framedphoto-shrink_400_400/0/1700068053971?e=1721289600&v=beta&t=F4vHb35mwcF86jxVV1pj8HtLvG29o6aG8ON1u2_xkUw"></img>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryangupta1105&label=Profile%20views&color=0e75b6&style=flat" alt="aryangupta1105" /> </p>
