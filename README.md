@@ -50,7 +50,8 @@
 
 ### 🎧 Now Playing on Spotify
 
-[![Spotify](https://novatorem-aryangupta1105.vercel.app/api/spotify)](https://open.spotify.com/user/spotify)
+[![Spotify](https://novatorem-aryangupta1105.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_USERNAME)
+
 
 ---
 
