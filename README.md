@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Gupta</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A passionate FULL Stack Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryangupta1105&label=Profile%20views&color=0e75b6&style=flat" alt="aryangupta1105" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [React js , Web Development](For developement)
 
-- 🌱 I’m currently learning **FULL STACK DEVELOPER**
+- 🌱 I’m currently learning **MERN STACK DEVELOPER**
 
 - 👨‍💻 All of my projects are available at [https://aryan-gupta-portfolio-flare.lovable.app/](https://aryan-gupta-portfolio-flare.lovable.app/)
 
