@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [React js , Web Development](For developement)
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **FULL STACK DEVELOPER**
 
 - 👨‍💻 All of my projects are available at [https://aryan-gupta-portfolio-flare.lovable.app/](https://aryan-gupta-portfolio-flare.lovable.app/)
 
