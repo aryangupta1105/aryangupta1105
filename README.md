@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Gupta</h1>
-<h3 align="center">🚀 Full-Stack Web Developer | SIH 2024 Grand Finalist | Open Source Enthusiast</h3>
+<h3 align="center">🚀 Full-Stack Web Developer | SIH 2024 Grand Finalist | SIH 2025 Grand Finalist | Open Source Enthusiast | AI Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aryangupta1105&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
