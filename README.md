@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **React.js & MERN Stack Development**  
+- 🔭 Currently working on **React.js & MERN Stack Development & Python**  
 - 🌱 Learning **Advanced Backend with Django & GraphQL**  
 - 👨‍🎓 B.Tech CSE @ IPS Academy, Indore (CGPA: 9.30/10)  
 - 👨‍💻 Projects: [**Portfolio**](https://aryan-gupta-portfolio-flare.lovable.app)  
